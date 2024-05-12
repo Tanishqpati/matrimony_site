@@ -15,7 +15,7 @@ export default function Signup() {
             Continue with phone number verification
           </p>
         </div>
-        <Image src="/signup-page-gif.gif" width={500} height={300} alt="GIF" />
+        <Image unoptimized src="/signup-page-gif.gif" width={500} height={300} alt="GIF" />
         <div className="flex gap-2 divide-x-4 text-slate-400 p-4 rounded-2xl border-2 border-slate-400 outline-none slate-500 w-full">
           <p className="text-lg">+91</p>
           <input
